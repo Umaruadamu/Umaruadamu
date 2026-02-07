@@ -11,7 +11,7 @@
 
 I am a cybersecurity academic and applied researcher with a **PhD in Computer Science**, specialising in **deep learning–based malware and ransomware detection**. My work integrates **research-led teaching**, **hands-on cybersecurity practice**, and **academic mentoring** across undergraduate, MSc, and early-career PhD levels.
 
-This portfolio presents my **PhD research**, **Google Cybersecurity Professional Certificate projects**, and **leadership and professional development certifications**, aligned with UK academic standards and Global Talent expectations.
+This portfolio presents my **PhD research**, **Google Cybersecurity Professional Certificate projects**, and **leadership and professional development certifications**.
 
 ---
 
