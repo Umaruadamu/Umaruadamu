@@ -11,7 +11,7 @@
 
 I am a cybersecurity academic and applied researcher with a **PhD in Computer Science**, specialising in **deep learning–based malware and ransomware detection**. My work integrates **research-led teaching**, **hands-on cybersecurity practice**, and **academic mentoring** across undergraduate, MSc, and early-career PhD levels.
 
-This portfolio presents my **PhD research**, **Google Cybersecurity Professional Certificate projects**, and **leadership and professional development certifications**.
+This portfolio presents my **PhD research**, **MSc Advanced Control and Systems Engineering (secure systems research)**, **Google Cybersecurity Professional Certificate projects**, and **leadership and professional development certifications**.
 
 ---
 
@@ -25,8 +25,9 @@ To contribute as a **Cybersecurity Lecturer / Senior Lecturer (Teaching-focused)
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Deep Learning for Malware Detection | <a href="https://github.com/Umaruadamu/>PhD_Malware_Detection</a>|
-| Ransomware Prediction & Feature Reduction | [PhD Malware Detection Framework](./PhD_Malware_Detection/) |
+| Deep Learning for Malware Detection | [PhD Malware Detection Framework](./PhD_Malware_Detection/) |
+| Ransomware Prediction using Supervised Learning Algorithms | [PhD Malware Detection Framework](./PhD_Malware_Detection/) |
+| Physical Layer Security in Wireless Sensor Networks | [MSc Physical Layer Security – WSN](./MSc_Physical_Layer_Security_WSN/) |
 | SIEM Implementation & Log Analysis | [Google Cybersecurity Projects](./Google_Cybersecurity_Professional_Certificate/) |
 | Network Traffic Monitoring & Attack Detection | [Google Cybersecurity Projects](./Google_Cybersecurity_Professional_Certificate/) |
 | Incident Response & SOC Workflows | [Google Cybersecurity Projects](./Google_Cybersecurity_Professional_Certificate/) |
@@ -96,6 +97,9 @@ To contribute as a **Cybersecurity Lecturer / Senior Lecturer (Teaching-focused)
 - 🔬 **PhD Research:**  
   [Deep Learning–Based Malware Detection Framework](./PhD_Malware_Detection/)
 
+- 📡 **MSc Research – Secure Wireless Systems:**  
+  [Physical Layer Security in Wireless Sensor Networks](./MSc_Physical_Layer_Security_WSN/)
+
 - 🛡 **Applied Cybersecurity Practice:**  
   [Google Cybersecurity Professional Projects](./Google_Cybersecurity_Professional_Certificate/)
 
@@ -115,4 +119,5 @@ To contribute as a **Cybersecurity Lecturer / Senior Lecturer (Teaching-focused)
 
 ## 🧭 Closing Statement
 
-This portfolio reflects my commitment to **research-led cybersecurity education**, **responsible AI practice**, and **academic leadership**.
+This portfolio reflects my commitment to **research-led cybersecurity education**, **responsible AI practice**, and **secure systems engineering across distributed and industrial environments**.
+
