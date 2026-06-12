@@ -52,7 +52,7 @@ I am particularly interested in roles involving:
 
 | Domain | Demonstrated Through |
 |-----------------------------------------------|--------------------------------------------|
-| AI-Driven Malware & Ransomware Detection | [PhD Malware Detection Framework](./PhD_Malware_Detection/) |
+| AI-Driven Malware & Ransomware Detection | [PhD Malware Detection Framework](./PhD_Malware_Detection/)https://github.com/Umaruadamu/Cybersecurity-Research-Enterprise-Security-Engineering |
 | Secure Wireless & Distributed Systems (WSN/IoT) | [MSc Physical Layer Security – WSN](./MSc_Physical_Layer_Security_WSN/) |
 | SIEM-Driven Incident Response & Detection Engineering | [Enterprise SIEM Case Study](./SIEM_Incident_Response_Case_Study/) |
 | Security Governance & Enterprise Audit | [Enterprise Security Audit Case Study](./Enterprise_Security_Audit/) |
