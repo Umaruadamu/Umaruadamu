@@ -27,7 +27,7 @@ This portfolio demonstrates capability across:
 - Threat Detection Engineering
 - Industrial network resilience  
 - Governance and compliance alignment  
-- Applied penetration testing (home lab environment)  
+  
 
 ---
 
