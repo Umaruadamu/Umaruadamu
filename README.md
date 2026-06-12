@@ -53,11 +53,10 @@ I am particularly interested in roles involving:
 | Domain | Demonstrated Through |
 |-----------------------------------------------|--------------------------------------------|
 | AI-Driven Malware & Ransomware Detection | [PhD Malware Detection Framework](./PhD_Malware_Detection/)https://github.com/Umaruadamu/Cybersecurity-Research-Enterprise-Security-Engineering |
-| Secure Wireless & Distributed Systems (WSN/IoT) | [MSc Physical Layer Security – WSN](./MSc_Physical_Layer_Security_WSN/) |
-| SIEM-Driven Incident Response & Detection Engineering | [Enterprise SIEM Case Study](./SIEM_Incident_Response_Case_Study/) |
-| Security Governance & Enterprise Audit | [Enterprise Security Audit Case Study](./Enterprise_Security_Audit/) |
-| Network Monitoring & Threat Detection | [Security Monitoring Projects](./Security_Monitoring/) |
-| Penetration Testing & Vulnerability Analysis (Home Lab) | [Penetration Testing Lab](./Penetration_Testing_Lab/) |
+| Secure Wireless & Distributed Systems (WSN/IoT) | [MSc Physical Layer Security – WSN](./MSc_Physical_Layer_Security_WSN/)https://github.com/Umaruadamu/Umaruadamu/blob/main/MSc_Physical_Layer_Security_WSN |
+| Enterprise OS Hardening | [Enterprise SIEM Case Study](./Enterprise OS Hardening/) https://github.com/Umaruadamu/Umaruadamu/blob/main/MSc_Physical_Layer_Security_WSN|
+| Network Traffic Analysis| [Network Traffic Analysis Case Study](./Network Traffic Analysist/) https://github.com/Umaruadamu/Cybersecurity-Research-Enterprise-Security-Engineering/tree/main/Network%20Traffic%20Analysis|
+| Threat Detection Engineering| [Threat Detection Engineering  Projects](./Threat Detection Engineering/) https://github.com/Umaruadamu/Cybersecurity-Research-Enterprise-Security-Engineering/tree/main/Threat%20Detection%20Engineering|
 | Python for Security Automation | [Security Automation Projects](./Security_Automation/) |
 | Secure Database & Data Handling | [Secure Systems & Data Projects](./Secure_Data_Systems/) |
 
