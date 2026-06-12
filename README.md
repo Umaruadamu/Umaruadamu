@@ -22,7 +22,9 @@ This portfolio demonstrates capability across:
 
 - Intelligent threat detection systems  
 - Secure distributed and wireless infrastructures  
-- SIEM-driven incident response  
+- Network Traffic Analysis
+- Enterprise OS Hardening
+- Threat Detection Engineering
 - Industrial network resilience  
 - Governance and compliance alignment  
 - Applied penetration testing (home lab environment)  
